@@ -1,0 +1,33 @@
+baseurl = "http://www.senyorjou.com/"
+
+canonifyurls = true
+
+languageCode = "en-us"
+
+title = "Keep walking"
+
+theme = "paperback"
+
+[params]
+# Theme options
+
+# default: undefined
+AuthorName = "Marc Jou"
+
+# tagline to show beneath homepage h1
+# default: undefined
+Tagline = "take a walk on the dev side"
+
+# number of posts to show on index
+# default: 10
+HomepagePosts = 10
+
+# if set to true, social links will be displayed in the footer
+# default: undefined
+SocialLinks = true
+
+# default: undefined
+GithubUsername = "senyorjou"
+
+# default: undefined
+TwitterUsername = "senyorjou"

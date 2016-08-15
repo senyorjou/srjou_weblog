@@ -1,0 +1,5 @@
+# Change ACL permissions to allow allUsers read contents
+gsutil defacl ch -u AllUsers:R gs://www.senyorjou.com
+
+# sync contnts of public folder
+gsutil rsync -R . gs://www.senyorjou.com

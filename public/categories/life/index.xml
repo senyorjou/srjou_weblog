@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Keep walking</title>
+    <link>http://www.senyorjou.com/categories/life/</link>
+    <description>Recent content in Life on Keep walking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2016 07:32:41 +0200</lastBuildDate>
+    <atom:link href="http://www.senyorjou.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Being developer after 40</title>
+      <link>http://www.senyorjou.com/post/being_developer_after_40/</link>
+      <pubDate>Tue, 26 Apr 2016 07:32:41 +0200</pubDate>
+      
+      <guid>http://www.senyorjou.com/post/being_developer_after_40/</guid>
+      <description>&lt;p&gt;A great great post about everyday&amp;rsquo;s life of a veteran developer: &lt;a href=&#34;https://www.youtube.com/watch?v=GQx_beRMHVg&#34;&gt;Being A Developer After 40&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
